@@ -33,9 +33,3 @@ function productos() {
 }
 
 productos()
-
-let limpiador = 359
-let serum = 680
-let hidratante = 520
-let tratamiento = 450
-let pantalla = 890
